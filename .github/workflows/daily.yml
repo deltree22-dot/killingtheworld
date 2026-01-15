@@ -2,7 +2,7 @@ name: Daily conflict update
 
 on:
   schedule:
-    # 07:30 Europe/Zurich is 06:30 UTC in winter. Adjust if you want.
+    # 07:30 Europe/Zurich ist im Winter 06:30 UTC
     - cron: "30 6 * * *"
   workflow_dispatch: {}
 
@@ -22,7 +22,6 @@ jobs:
       - name: Run updater
         env:
           USER_AGENT: "Konfliktkarte (GitHub Actions) - Kontakt: Marcel Christen <deltree22@gmail.com>"
-          # Optional (recommended if you do more geocoding):
           NOMINATIM_EMAIL: "deltree22@gmail.com"
           MAX_ITEMS_PER_SOURCE: "20"
           DAYS_BACK: "2"
