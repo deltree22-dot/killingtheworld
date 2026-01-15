@@ -1,25 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5417,
-          47.3769
-        ]
-      },
-      "properties": {
-        "title": "Beispiel: Konflikt-Update",
-        "status": "fruehwarnung",
-        "date": "2026-01-14",
-        "summary": "Dies ist ein Platzhalter. Nach dem ersten Workflow-Run werden echte Eintraege erzeugt.",
-        "why_it_matters": "Damit du die Karte sofort testen kannst.",
-        "sources": [
-          "https://example.com"
-        ]
-      }
-    }
-  ]
+  "features": []
 }
