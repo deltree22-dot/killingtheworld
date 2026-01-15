@@ -5,16 +5,16 @@
 update_conflicts.py
 
 Ziel:
-- Taegliches Generieren von data/conflicts.geojson fuer deine Karte/Liste.
+- Taegliches Generieren von data/conflicts.geojson fuer Karte/Liste.
 
 Quellen:
 1) CrisisWatch RSS (International Crisis Group) – via feedparser (tolerant bei kaputtem XML)
 2) ReliefWeb API (v2 oder v1) – Reports; appname wird mitgeschickt
 3) GDELT GEO 2.0 – Fallback, damit nie 0 Features entstehen (liefert GeoJSON-Punkte)
 
-Wichtig:
+Hinweise:
 - Geocoding via Nominatim ist streng limitiert -> Cache + Delay.
-- Viele Angaben sind nur approximativ (Land-Zentrum), das wird in properties markiert.
+- Viele Angaben sind approximativ (Land-Zentrum), wird in properties markiert.
 """
 
 from __future__ import annotations
@@ -26,7 +26,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, List, Optional, Tuple
-from urllib.parse import urlencode, quote_plus
+from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
@@ -49,9 +49,7 @@ CRISISWATCH_RSS = os.environ.get("CRISISWATCH_RSS", "https://www.crisisgroup.org
 
 RELIEFWEB_BASE = os.environ.get("RELIEFWEB_BASE", "https://api.reliefweb.int")
 RELIEFWEB_VERSION = os.environ.get("RELIEFWEB_VERSION", "v2").strip().lower()  # "v2" oder "v1"
-RELIEFWEB_ENDPOINT = f"{RELIEFWEB_BASE.rstrip('/')}/{RELIEFWEB_VERSION}/reports"
-# ReliefWeb erwartet appname; je nach Policy muss der Appname akzeptiert sein.
-RW_APPNAME = os.environ.get("RW_APPNAME", os.environ.get("NOMINATIM_EMAIL", "killingtheworld")).strip() or "killingtheworld"
+RW_APPNAME = os.environ.get("RW_APPNAME", "killingtheworld").strip() or "killingtheworld"
 
 INCLUDE_GDELT = os.environ.get("INCLUDE_GDELT", "1").strip() != "0"
 GDELT_TIMESPAN_MIN = int(os.environ.get("GDELT_TIMESPAN_MIN", "1440"))  # 24h
@@ -67,7 +65,6 @@ USER_AGENT = os.environ.get(
     "killingtheworld/0.2 (Kontakt in USER_AGENT setzen; siehe Workflow ENV)"
 ).strip()
 
-# Minimal: damit der Script nicht abstuerzt, wenn data/ noch nicht existiert
 os.makedirs(DATA_DIR, exist_ok=True)
 
 
@@ -107,11 +104,13 @@ def http_get_json(url: str, headers: Optional[Dict[str, str]] = None, timeout: i
     return json.loads(http_get_text(url, headers=headers, timeout=timeout))
 
 
-def http_post_json(url: str, payload: Dict[str, Any], headers: Optional[Dict[str, str]] = None, timeout: int = 30) -> Any:
-    h = {"Content-Type": "application/json", "Accept": "application/json", "User-Agent": USER_AGENT}
-    if headers:
-        h.update(headers)
-    req = Request(url, data=json.dumps(payload).encode("utf-8"), headers=h, method="POST")
+def http_post_json(url: str, payload: Dict[str, Any], timeout: int = 30) -> Any:
+    headers = {
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": USER_AGENT,
+    }
+    req = Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers, method="POST")
     with urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode("utf-8", errors="replace"))
 
@@ -127,19 +126,15 @@ def safe(s: Any) -> str:
 
 
 def parse_country_from_title(title: str) -> str:
-    # CrisisWatch ist oft "Country: ..."
     m = re.match(r"^([^:]{3,60}):\s+", title or "")
-    if m:
-        return m.group(1).strip()
-    return ""
+    return m.group(1).strip() if m else ""
 
 
 def guess_status(text: str) -> str:
     t = (text or "").lower()
-    # sehr einfache Heuristik (kein Anspruch auf Genauigkeit)
-    if any(k in t for k in ["ceasefire", "truce", "de-escalat", "talks resumed", "agreement reached"]):
+    if any(k in t for k in ["ceasefire", "truce", "de-escalat", "agreement reached"]):
         return "deeskalierend"
-    if any(k in t for k in ["warning", "risk", "tension", "unrest", "protests", "mobiliz"]):
+    if any(k in t for k in ["warning", "risk", "tension", "unrest", "protest", "mobiliz"]):
         return "fruehwarnung"
     if any(k in t for k in ["escalat", "intensif", "airstrike", "shell", "clashes", "offensive"]):
         return "eskalierend"
@@ -204,13 +199,18 @@ def nominatim_geocode_country(country: str, cache: Dict[str, Any]) -> Optional[T
 # -----------------------------
 def fetch_crisiswatch_items() -> List[Item]:
     if feedparser is None:
-        print("[warn] feedparser ist nicht installiert -> CrisisWatch RSS wird uebersprungen. (requirements.txt: feedparser)")
+        print("[warn] feedparser ist nicht installiert -> CrisisWatch RSS wird uebersprungen.")
         return []
+
+    # feedparser User-Agent setzen (wichtig)
+    try:
+        feedparser.USER_AGENT = USER_AGENT  # type: ignore
+    except Exception:
+        pass
 
     try:
         d = feedparser.parse(CRISISWATCH_RSS)
         if getattr(d, "bozo", 0):
-            # bozo heisst: Feed ist formal kaputt, feedparser liefert aber oft trotzdem Eintraege
             print(f"[warn] CrisisWatch RSS bozo: {getattr(d, 'bozo_exception', 'unbekannt')}")
 
         items: List[Item] = []
@@ -218,9 +218,7 @@ def fetch_crisiswatch_items() -> List[Item]:
             title = safe(getattr(e, "title", ""))
             url = safe(getattr(e, "link", ""))
 
-            published = safe(getattr(e, "published", "")) or safe(getattr(e, "updated", ""))
             date_iso = iso_date(now_utc())
-            # feedparser liefert oft struct_time
             if getattr(e, "published_parsed", None):
                 try:
                     dt = datetime.fromtimestamp(time.mktime(e.published_parsed), tz=timezone.utc)
@@ -252,21 +250,15 @@ def fetch_crisiswatch_items() -> List[Item]:
 
 
 # -----------------------------
-# Quelle 2: ReliefWeb API (v2 oder v1)
+# Quelle 2: ReliefWeb API
 # -----------------------------
 def reliefweb_payload(since_iso: str) -> Dict[str, Any]:
-    # ReliefWeb akzeptiert unterschiedliche Query-Formen je nach Version.
-    # Wir halten den Payload bewusst konservativ.
     return {
         "appname": RW_APPNAME,
-        "query": {
-            "value": "conflict OR war OR violence OR clashes OR airstrike OR shelling OR ceasefire",
-        },
+        "query": {"value": "conflict OR war OR violence OR clashes OR airstrike OR shelling OR ceasefire"},
         "filter": {
             "operator": "AND",
-            "conditions": [
-                {"field": "date.created", "value": {"from": since_iso}}
-            ]
+            "conditions": [{"field": "date.created", "value": {"from": since_iso}}],
         },
         "fields": {
             "include": [
@@ -276,11 +268,11 @@ def reliefweb_payload(since_iso: str) -> Dict[str, Any]:
                 "body",
                 "primary_country.name",
                 "country.name",
-                "source.name"
+                "source.name",
             ]
         },
         "sort": ["date.created:desc"],
-        "limit": MAX_ITEMS_PER_SOURCE
+        "limit": MAX_ITEMS_PER_SOURCE,
     }
 
 
@@ -295,12 +287,10 @@ def parse_reliefweb_response(data: Dict[str, Any]) -> List[Item]:
         created = safe((fields.get("date") or {}).get("created")) or safe(fields.get("date.created"))
         date_iso = created[:10] if created else iso_date(now_utc())
 
-        # primary_country bevorzugen
         country = ""
         pc = fields.get("primary_country") or {}
         if isinstance(pc, dict):
             country = safe(pc.get("name"))
-
         if not country:
             cs = fields.get("country") or []
             if isinstance(cs, list) and cs:
@@ -335,15 +325,10 @@ def parse_reliefweb_response(data: Dict[str, Any]) -> List[Item]:
 def fetch_reliefweb_items() -> List[Item]:
     since = now_utc() - timedelta(days=DAYS_BACK)
     since_iso = since.strftime("%Y-%m-%dT%H:%M:%S+0000")
-
     payload = reliefweb_payload(since_iso)
 
-    # ReliefWeb: appname kann auch als Query-Param sinnvoll sein.
-    # Wir versuchen zuerst POST auf die konfigurierte Version, danach Fallback auf v1.
     def endpoint(ver: str) -> str:
-        base = f"{RELIEFWEB_BASE.rstrip('/')}/{ver}/reports"
-        # appname als Query-Param
-        return f"{base}?{urlencode({'appname': RW_APPNAME})}"
+        return f"{RELIEFWEB_BASE.rstrip('/')}/{ver}/reports?{urlencode({'appname': RW_APPNAME})}"
 
     versions_to_try = [RELIEFWEB_VERSION]
     if RELIEFWEB_VERSION != "v1":
@@ -351,26 +336,17 @@ def fetch_reliefweb_items() -> List[Item]:
     if RELIEFWEB_VERSION != "v2":
         versions_to_try.append("v2")
 
-    last_err = None
     for ver in versions_to_try:
-        url = endpoint(ver)
         try:
-            data = http_post_json(url, payload)
+            data = http_post_json(endpoint(ver), payload)
             return parse_reliefweb_response(data)
         except HTTPError as e:
-            last_err = e
-            # 400 ist bei Policy/Schema aenderungen haeufig
             print(f"[warn] ReliefWeb API ({ver}) Fehler: HTTP {e.code} {e.reason}")
         except URLError as e:
-            last_err = e
             print(f"[warn] ReliefWeb API ({ver}) Netzwerkfehler: {e}")
         except Exception as e:
-            last_err = e
             print(f"[warn] ReliefWeb API ({ver}) Fehler: {e}")
 
-    if last_err:
-        # letzter Hinweis bleibt im Log
-        pass
     return []
 
 
@@ -378,12 +354,7 @@ def fetch_reliefweb_items() -> List[Item]:
 # Quelle 3: GDELT GEO 2.0 (Fallback)
 # -----------------------------
 def fetch_gdelt_geo_features() -> List[Dict[str, Any]]:
-    """
-    Holt GeoJSON-Punkte aus News-Mentions (GDELT GEO 2.0).
-    Das ist ein Fallback, damit die Karte nicht leer bleibt.
-    """
     base = "https://api.gdeltproject.org/api/v2/geo/geo"
-
     query = "(war OR conflict OR fighting OR clashes OR shelling OR airstrike OR ceasefire OR insurgency OR militia OR invasion)"
 
     params = {
@@ -406,7 +377,8 @@ def fetch_gdelt_geo_features() -> List[Dict[str, Any]]:
         for f in feats[:GDELT_MAX_FEATURES]:
             geom = f.get("geometry") or {}
             props = f.get("properties") or {}
-            coords = geom.get("coordinates") or None
+            coords = geom.get("coordinates")
+
             if not (isinstance(coords, list) and len(coords) >= 2):
                 continue
 
@@ -418,22 +390,18 @@ def fetch_gdelt_geo_features() -> List[Dict[str, Any]]:
             country = safe(props.get("country") or props.get("countryname") or "")
             region = safe(props.get("adm1") or props.get("adm1name") or "")
 
-            # Quellen-URLs sind je nach GDELT-Ausgabe unterschiedlich. Wir bleiben defensiv.
             sources: List[str] = []
             for k in ["url", "shareimage", "articles"]:
                 v = props.get(k)
                 if isinstance(v, str) and v.startswith("http"):
                     sources.append(v)
 
-            status = "fruehwarnung"  # als Fallback eher vorsichtig
-            title = f"{country}: {name}" if country else name
-
             out.append({
                 "type": "Feature",
                 "geometry": {"type": "Point", "coordinates": [lon, lat]},
                 "properties": {
-                    "title": title,
-                    "status": status,
+                    "title": f"{country}: {name}" if country else name,
+                    "status": "fruehwarnung",
                     "date": iso_date(now_utc()),
                     "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
                     "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
@@ -478,7 +446,6 @@ def items_to_geojson(items: List[Item], cache: Dict[str, Any]) -> Dict[str, Any]
     for it in items:
         country = it.country.strip()
         if not country:
-            # Ohne Land koennen wir (in diesem einfachen Setup) nicht sinnvoll geokodieren
             continue
 
         coords = nominatim_geocode_country(country, cache)
@@ -509,18 +476,20 @@ def items_to_geojson(items: List[Item], cache: Dict[str, Any]) -> Dict[str, Any]
     return {"type": "FeatureCollection", "features": features}
 
 
-def merge_geojson_features(a: Dict[str, Any], b_features: List[Dict[str, Any]]) -> Dict[str, Any]:
-    feats = list(a.get("features") or [])
-    # sehr einfache Dedupe fuer GeoJSON-Fallback
+def merge_geojson_features(base_geo: Dict[str, Any], extra_features: List[Dict[str, Any]]) -> Dict[str, Any]:
+    feats = list(base_geo.get("features") or [])
     seen = set()
-    for f in feats:
-        p = f.get("properties") or {}
-        k = (safe(p.get("title")).lower(), safe(p.get("country")).lower(), json.dumps(f.get("geometry") or {}, sort_keys=True))
-        seen.add(k)
 
-    for f in b_features:
+    def key_for(f: Dict[str, Any]) -> str:
         p = f.get("properties") or {}
-        k = (safe(p.get("title")).lower(), safe(p.get("country")).lower(), json.dumps(f.get("geometry") or {}, sort_keys=True))
+        g = f.get("geometry") or {}
+        return f"{safe(p.get('title')).lower()}|{safe(p.get('country')).lower()}|{json.dumps(g, sort_keys=True)}"
+
+    for f in feats:
+        seen.add(key_for(f))
+
+    for f in extra_features:
+        k = key_for(f)
         if k in seen:
             continue
         seen.add(k)
@@ -537,13 +506,11 @@ def main() -> None:
 
     items: List[Item] = []
 
-    # 1) CrisisWatch RSS
     try:
         items.extend(fetch_crisiswatch_items())
     except Exception as e:
         print(f"[warn] CrisisWatch RSS Fehler: {e}")
 
-    # 2) ReliefWeb
     try:
         items.extend(fetch_reliefweb_items())
     except Exception as e:
@@ -553,13 +520,12 @@ def main() -> None:
 
     geo = items_to_geojson(items, cache)
 
-    # 3) Fallback: GDELT, wenn leer oder sehr wenig
-    if INCLUDE_GDELT and (len(geo.get("features", [])) == 0):
+    # Fallback: GDELT, wenn leer
+    if INCLUDE_GDELT and len(geo.get("features", [])) == 0:
         gdelt_feats = fetch_gdelt_geo_features()
         if gdelt_feats:
             geo = merge_geojson_features(geo, gdelt_feats)
 
-    # Schreiben
     with open(OUT_GEOJSON, "w", encoding="utf-8") as f:
         json.dump(geo, f, ensure_ascii=False, indent=2)
 
