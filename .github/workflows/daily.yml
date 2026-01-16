@@ -27,6 +27,8 @@ jobs:
         env:
           USER_AGENT: "Konfliktkarte (GitHub Actions) - Kontakt: Marcel Christen <deltree22@gmail.com>"
           NOMINATIM_EMAIL: "deltree22@gmail.com"
+          RW_APPNAME: ${{ secrets.RW_APPNAME }}
+          RELIEFWEB_VERSION: "v2"
           MAX_ITEMS_PER_SOURCE: "20"
           DAYS_BACK: "2"
           GEOCODE_DELAY_SEC: "1.1"
