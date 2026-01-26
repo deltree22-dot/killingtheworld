@@ -13,11 +13,11 @@
       "properties": {
         "title": "Russia",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://unn.ua/img/2026/01/24/1769290006-1144-large.webp"
+          "https://truthout.org/app/uploads/2026/01/GettyImages-2257591652.jpg"
         ],
         "country": "",
         "region": "",
@@ -38,11 +38,11 @@
       "properties": {
         "title": "Ukraine",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://focus.ua/static/storage/thumbs/1200x630/a/b9/or5edw-687fb522c63f42f6481cbd4671c63b9a.jpg?v=8796_1"
+          "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260125__93XP4FL__v1__MidRes__LithuaniaPolandUkrainePoliticsDiplomacyHistory-1769384789.jpg"
         ],
         "country": "",
         "region": "",
@@ -63,10 +63,12 @@
       "properties": {
         "title": "Israel",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [],
+        "sources": [
+          "https://cdn.wmnf.org/wp-content/uploads/2026/01/Olive-trees-in-Lebanon-by-Eliane29-via-iStock-for-WMNF-News-scaled.jpg"
+        ],
         "country": "",
         "region": "",
         "source": "GDELT GEO 2.0",
@@ -86,61 +88,11 @@
       "properties": {
         "title": "Iran",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.0,
-          35.0
-        ]
-      },
-      "properties": {
-        "title": "Syria",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://media-manager.noticiasaominuto.com/1920/naom_696f92aa77bfa.jpg?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjY4OCwiY3JvcFkiOjI3Mn19"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          66.0,
-          33.0
-        ]
-      },
-      "properties": {
-        "title": "Afghanistan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
+          "https://www.diariosigloxxi.com/images/20537"
         ],
         "country": "",
         "region": "",
@@ -161,11 +113,11 @@
       "properties": {
         "title": "China",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.staradvertiser.com/wp-content/uploads/2026/01/web1_9358367.jpg"
+          "https://truthout.org/app/uploads/2026/01/GettyImages-2257591652.jpg"
         ],
         "country": "",
         "region": "",
@@ -179,118 +131,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.0,
-          54.0
+          38.0,
+          35.0
         ]
       },
       "properties": {
-        "title": "United Kingdom",
+        "title": "Syria",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/puckgettyimage-scaled.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5167,
-          50.4333
-        ]
-      },
-      "properties": {
-        "title": "Kiev, Ukraine (General), Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.unitycms.io/images/5ALAx-FNa8cB3ZTKmDnaxH.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=lThGxg_GFJ0"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.0,
-          60.0
-        ]
-      },
-      "properties": {
-        "title": "Canada",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Bola-A.-Akinterinwa.jpeg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.6156,
-          55.7522
-        ]
-      },
-      "properties": {
-        "title": "Moscow, Moskva, Russia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.dw.com/image/75640578_6.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.0,
-          -25.0
-        ]
-      },
-      "properties": {
-        "title": "Australia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.edenmagnet.com.au/images/transform/v1/crop/frm/silverstone-feed-data/3e00bb0f-d36b-4cdf-8264-40de89feca3f.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+          "https://www.diariopanorama.com/fotos/notas/2026/01/25/campos-detencion-541461-094009.jpg"
         ],
         "country": "",
         "region": "",
@@ -311,10 +163,37 @@
       "properties": {
         "title": "Gaza, Israel (General), Israel",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [],
+        "sources": [
+          "https://www.shorouknews.com/uploadedimages/Other/original/5875876876967.JPG"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          54.0
+        ]
+      },
+      "properties": {
+        "title": "United Kingdom",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://royalcentral.co.uk/wp-content/uploads/2025/09/54804422306_0a98fc0c0e_o-1024x683.jpg"
+        ],
         "country": "",
         "region": "",
         "source": "GDELT GEO 2.0",
@@ -334,11 +213,11 @@
       "properties": {
         "title": "Germany",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://s.yimg.com/os/en/dpa_international_526/b64229704a443128c7f9ed9286cb35a3"
+          "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDEvMjUvMTAxMDAxNDk4LWMxOGVmNzE4LTRlODUtNDU2OS1hMmM2LTU5NjdmNWQ2MjQyNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19"
         ],
         "country": "",
         "region": "",
@@ -352,93 +231,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0364,
-          38.8951
+          37.6156,
+          55.7522
         ]
       },
       "properties": {
-        "title": "Washington, Washington, United States",
+        "title": "Kremlin, Moskva, Russia",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.alnilin.com/wp-content/uploads/2025/04/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B4%D9%82%D9%84%D8%A7%D9%88%D9%8A.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.0,
-          72.0
-        ]
-      },
-      "properties": {
-        "title": "Greenland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/puckgettyimage-scaled.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.0,
-          33.0
-        ]
-      },
-      "properties": {
-        "title": "Iraq",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.0,
-          27.0
-        ]
-      },
-      "properties": {
-        "title": "Egypt",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
+          "https://i.blogs.es/72cb29/ps---plantilla-portadas-xtk-586/75_75.jpeg"
         ],
         "country": "",
         "region": "",
@@ -459,11 +263,11 @@
       "properties": {
         "title": "India",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.newsx.com/wp-content/uploads/2026/01/republic-day.jpg"
+          "https://img.etimg.com/thumb/msid-127528773,width-1200,height-630,imgsize-100806,overlay-economictimes/articleshow.jpg"
         ],
         "country": "",
         "region": "",
@@ -477,18 +281,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0,
-          46.0
+          135.0,
+          -25.0
         ]
       },
       "properties": {
-        "title": "France",
+        "title": "Australia",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.goulburnpost.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d908ffc1-268d-4d74-ba31-d5814000c844.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+          "https://images.storm.mg/cloud/756d42824cc25939ea88328f1dff8b3e84aef900.jpg?url=s3%3A%2F%2Fnew-storm-public-resource%2Fgallery%2F2115739%2F0W3cxD546wzmLdLCzQhHsvV6ZXk427u80lLcCLQn.jpg&g=sm"
         ],
         "country": "",
         "region": "",
@@ -502,18 +306,118 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0,
-          56.0
+          -40.0,
+          72.0
         ]
       },
       "properties": {
-        "title": "Denmark",
+        "title": "Greenland",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://static.bonniernews.se/ba/f18f1379-02b7-4f6e-ba92-4b017d08c5d3.jpeg?io=1&auto=webp&quality=80&crop=1200:630,smart"
+          "https://image.kmib.co.kr/online_image/2026/0126/2026012520500688032_1769341806_1769328711.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0364,
+          38.8951
+        ]
+      },
+      "properties": {
+        "title": "Washington, Washington, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://sudanile.com/wp-content/uploads/2025/09/shaglawi.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "title": "Afghanistan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://royalcentral.co.uk/wp-content/uploads/2025/09/54804422306_0a98fc0c0e_o-1024x683.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5167,
+          50.4333
+        ]
+      },
+      "properties": {
+        "title": "Kiev, Ukraine (General), Ukraine",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-9ir05efbh-1769332388985.jpg?quality=75&strip=all&1769314403"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0,
+          60.0
+        ]
+      },
+      "properties": {
+        "title": "Canada",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://fondsk.ru/sites/default/files/images/news/2026/01/25/G_OZUsoXkAAB3w2.jpg"
         ],
         "country": "",
         "region": "",
@@ -534,11 +438,11 @@
       "properties": {
         "title": "Japan",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.sponichi.co.jp/battle/news/2026/01/25/jpeg/20260125s10003000089000p_view.webp"
+          "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/band-of-brothers.jpeg?&fit=crop"
         ],
         "country": "",
         "region": "",
@@ -552,18 +456,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.5,
-          48.5
+          2.0,
+          46.0
         ]
       },
       "properties": {
-        "title": "Donbass, Ukraine (General), Ukraine",
+        "title": "France",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.negocios.com/media/negocios/images/2026/01/14/2026011415051894405.jpg"
+          "https://www.vesuviolive.it/wp-content/uploads/sites/6/2020/05/donald-trump.jpg"
         ],
         "country": "",
         "region": "",
@@ -577,18 +481,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0,
-          47.0
+          44.0,
+          33.0
         ]
       },
       "properties": {
-        "title": "Hungary",
+        "title": "Iraq",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://vm.ru/img/vmru_cover.png"
+          "https://www.diariopanorama.com/fotos/notas/2026/01/25/campos-detencion-541461-094009.jpg"
         ],
         "country": "",
         "region": "",
@@ -609,836 +513,11 @@
       "properties": {
         "title": "Turkey",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6696845.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.5,
-          37.0
-        ]
-      },
-      "properties": {
-        "title": "South Korea",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://slovenskenovice.delo.si/media/images/20260122/2760384.2e16d0ba.fill-1200x630.format-webp.webp?rev=1"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.2527,
-          49.9808
-        ]
-      },
-      "properties": {
-        "title": "Kharkiv, Kharkivs'ka Oblast', Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.unitycms.io/images/5ALAx-FNa8cB3ZTKmDnaxH.jpg?op=ocroped&val=1200,600,1000,750,125,0&sum=lThGxg_GFJ0"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.0,
-          16.0
-        ]
-      },
-      "properties": {
-        "title": "Sudan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/sudan-church-after-attack.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.0,
-          24.0
-        ]
-      },
-      "properties": {
-        "title": "Taiwan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.republika.co.id/uploads/images/inpicture_slide/dapur-redaksi-edisi-perang-dunia_260125082833-396.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.9196,
-          45.7326
-        ]
-      },
-      "properties": {
-        "title": "Minnesota, United States",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260123-crockett-talarico-debate-bf-1111-ba257b.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.0,
-          8.0
-        ]
-      },
-      "properties": {
-        "title": "Venezuela",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.sofokleousin.gr/sites/default/files/styles/node_full/public/articles/2017/01/aeroplanoforo_882558319.jpg?itok=_bDvCZt5"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.0,
-          47.0
-        ]
-      },
-      "properties": {
-        "title": "Switzerland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212061108_1D-Davos-0124_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.8333,
-          42.8333
-        ]
-      },
-      "properties": {
-        "title": "Italy",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.politicamentecorretto.com/wp-content/uploads/2026/01/40-8.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          107.8333,
-          16.1667
-        ]
-      },
-      "properties": {
-        "title": "Vietnam",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/apocalypse-now.jpg?&fit=crop"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.8333,
-          46.8167
-        ]
-      },
-      "properties": {
-        "title": "Davos, Switzerland (General), Switzerland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212061108_1D-Davos-0124_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0,
-          52.0
-        ]
-      },
-      "properties": {
-        "title": "Poland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://dzieje.pl/sites/default/files/styles/image_crop/public/202601/Zrzut%20ekranu_25-1-2026_63016_www.facebook.com_.jpeg?d30c4c&itok=G9fbdxtV"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          51.5148,
-          35.75
-        ]
-      },
-      "properties": {
-        "title": "Tehran, Tehran, Iran",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://s3.amazonaws.com/bala.static/links/6426086.png"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.0,
-          24.0
-        ]
-      },
-      "properties": {
-        "title": "United Arab Emirates",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/29/full/1751184960-4692.jpg?im=FitAndFill=(826,465)"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.0,
-          40.0
-        ]
-      },
-      "properties": {
-        "title": "Spain",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/01/24/697544fc74f8d.jpeg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.388,
-          39.9289
-        ]
-      },
-      "properties": {
-        "title": "Beijing, Beijing, China",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.clarin.com/img/2026/01/23/aa3LfSmv6_2000x1500__1.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          70.0,
-          30.0
-        ]
-      },
-      "properties": {
-        "title": "Pakistan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.geo.tv/assets/uploads/updates/2026-01-24/l_647008_112222_updates.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "Saudi Arabia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.langimg.com/nbt/thumb/127397912/uae-saudi-news.jpg?imgsize=114432&resizemode=75"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.2369,
-          31.2878
-        ]
-      },
-      "properties": {
-        "title": "Rafah, Shamal Sina', Egypt",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://accesswdun.com/wp-content/uploads/2025/08/cropped-AccessStack-512.png"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.0,
-          -10.0
-        ]
-      },
-      "properties": {
-        "title": "Brazil",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://tn.com.ar/resizer/v2/almirante-guillermo-brown-el-padre-de-la-patria-en-el-mar-foto-gentileza-eduardo-lazzari-T6P5ST47KJCXTPG3ACCTAAKCLQ.jpg?auth=1b932aa913d2ab11aad11924a056ffd704db1c449b8ec10c600653cf732a4e4a"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.0,
-          62.0
-        ]
-      },
-      "properties": {
-        "title": "Sweden",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.bonniernews.se/ba/971350d7-f627-4047-8133-e19ebe1f1fcd.jpeg?io=1&auto=webp&quality=80&crop=1200:630,smart"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.0,
-          46.0
-        ]
-      },
-      "properties": {
-        "title": "Romania",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0,
-          39.0
-        ]
-      },
-      "properties": {
-        "title": "Greece",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://img.bbmd.gr/img/1200/630/90/2026/01/24/2024fdd6-finlandoi-stratiwtes-se-xarakwma-ton-ioynio-toy-1944-og.jpg?t=30O-AF4cHN6pCxNGbBY2Lw"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.0,
-          53.0
-        ]
-      },
-      "properties": {
-        "title": "Belarus",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.kyivpost.com/storage/2026/01/24/69e342978a94e2299c602badc7c33883.jpg?&q=90&f=jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.3667,
-          24.4667
-        ]
-      },
-      "properties": {
-        "title": "Abu Dhabi, Abu Z¸Aby, United Arab Emirates",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://vv.com.uawp-content/uploads/2026/01/d0516251278626c0b0a37b53f2c2c905.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.2638,
-          44.98
-        ]
-      },
-      "properties": {
-        "title": "Minneapolis, Minnesota, United States",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260126-minneapolis-shooting-mn-1151-2aace7.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.0,
-          43.0
-        ]
-      },
-      "properties": {
-        "title": "Bulgaria",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.siasat.com/wp-content/uploads/2025/12/Untitled-design-2025-12-30T105402.902.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.1167,
-          51.5
-        ]
-      },
-      "properties": {
-        "title": "London, London, City Of, United Kingdom",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjE5JTJGMjU0ODA2M18yNTQ4/MDYzX3RydW1wLTMuanBnJnc9MTIwMCZo/PTYzMCZ6Yz0xJmhhc2g9NDFjMDM1MWJmYjE4YjljMzcxN2Y1OGNjZmY1NWEwMjY=.thumb.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.5167
-        ]
-      },
-      "properties": {
-        "title": "Berlin, Berlin, Germany",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.0,
-          37.5664
-        ]
-      },
-      "properties": {
-        "title": "Seoul, Soul-T'ukpyolsi, South Korea",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202601/south-koreas-defence-ministry-described-the-us-military-presence-as-the-core-of-the-alliance-that-240041469-16x9_0.png?VersionId=5wlGdOdr3B0ENFE4kcM0Ew16j1._G28_"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.0,
-          23.0
-        ]
-      },
-      "properties": {
-        "title": "Mexico",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/puckgettyimage-scaled.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.0,
-          62.0
-        ]
-      },
-      "properties": {
-        "title": "Norway",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://informer.rs/data/images/2025-09-18/1236029_ukrajina-rat_f.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.0,
-          64.0
-        ]
-      },
-      "properties": {
-        "title": "Finland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.chinatimes.com/newsphoto/2026-01-25/656/20260125000050.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.3,
-          33.5
-        ]
-      },
-      "properties": {
-        "title": "Damascus, Dimashq, Syria",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.evrensel.net/images/840/upload/dosya/330008.jpg"
+          "https://cdn.actualno.eu/actualno_2013/upload/news/2026/01/22/33575c5cd5f126ec23cb1c960b664b90_2546231_1920x1080.jpg"
         ],
         "country": "",
         "region": "",
@@ -1459,11 +538,11 @@
       "properties": {
         "title": "Lebanon",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.lebanon24.com/uploadImages/DocumentImages/Doc-P-1472876-639048470461115927.jpg"
+          "https://cdn.wmnf.org/wp-content/uploads/2026/01/Olive-trees-in-Lebanon-by-Eliane29-via-iStock-for-WMNF-News-scaled.jpg"
         ],
         "country": "",
         "region": "",
@@ -1477,19 +556,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.9384,
-          42.1497
+          30.0,
+          27.0
         ]
       },
       "properties": {
-        "title": "New York, United States",
+        "title": "Egypt",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdnph.upi.com/sv/ph/og/i/9341769305417/2026/1/17693066091184/v1.5/Zelensky-calls-trilateral-talks-with-Russia-US-were-constructive.jpg"
-        ],
+        "sources": [],
         "country": "",
         "region": "",
         "source": "GDELT GEO 2.0",
@@ -1502,18 +579,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          40.5
+          -66.0,
+          8.0
         ]
       },
       "properties": {
-        "title": "Azerbaijan",
+        "title": "Venezuela",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
+          "https://truthout.org/app/uploads/2026/01/GettyImages-2257591652.jpg"
         ],
         "country": "",
         "region": "",
@@ -1527,18 +604,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.0,
-          4.0
+          20.0,
+          52.0
         ]
       },
       "properties": {
-        "title": "Colombia",
+        "title": "Poland",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.sdpnoticias.com/resizer/v2/NVB7IMS25FAGFAWMXP5MNSTW6Y.jpg?smart=true&auth=4ff4fe0910062d02f0647d434ff4773d02439e39726b85bd74983f701cadeba1"
+          "https://1gr.cz/fotky/idnes/26/013/cl8/AOC9871715913_13414bbc98bf15f4290a3025.jpg"
         ],
         "country": "",
         "region": "",
@@ -1552,218 +629,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.0,
-          40.0
-        ]
-      },
-      "properties": {
-        "title": "Armenia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://i20.haber7.net/resize/1280x720/haber/haber7/photos/2026/04/UUpuz_1769244925_4243.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          47.5,
-          15.5
-        ]
-      },
-      "properties": {
-        "title": "Yemen",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.khabaragency.net/system/uploads/news/6975264404ca8.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3333,
-          50.8333
-        ]
-      },
-      "properties": {
-        "title": "Brussels, Bruxelles-Capitale, Belgium",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn1.img.sputnikportal.rs/images/sharing/article/srb/1195124575.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.0,
-          53.0
-        ]
-      },
-      "properties": {
-        "title": "Ireland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.carlow-nationalist.ie/cms_media/module_img/7661/3830541_1_articledetail_2-83190292-e1769269461934.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.0,
-          -5.0
-        ]
-      },
-      "properties": {
-        "title": "Indonesia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.republika.co.id/uploads/images/inpicture_slide/dapur-redaksi-edisi-perang-dunia_260125082833-396.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.0,
-          31.0
-        ]
-      },
-      "properties": {
-        "title": "Jordan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/24/yk14656786/yk14656786_0_0_1558_987_0_large.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5,
-          22.0
-        ]
-      },
-      "properties": {
-        "title": "Cuba",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://ikona.telesurtv.net/content/uploads/2026/01/diaz-canel-defensa-nacional-24-ene2026.jpg.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.5802,
-          50.6107
-        ]
-      },
-      "properties": {
-        "title": "Belgorod, Belgorodskaya Oblast', Russia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://iv.kommersant.ru/SocialPics/8377317_49_0_1152852963"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.0,
+          121.0,
           24.0
         ]
       },
       "properties": {
-        "title": "Bangladesh",
+        "title": "Taiwan",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.indiablooms.com/storage/assets/n/2026/1769251161430550198.jpg"
+          "https://i.epochtimes.com/assets/uploads/2025/03/id14449665-748238-700x359.jpg"
         ],
         "country": "",
         "region": "",
@@ -1777,268 +654,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.0,
-          44.0
+          30.0,
+          16.0
         ]
       },
       "properties": {
-        "title": "Serbia",
+        "title": "Sudan",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://ocdn.eu/pulscms-transforms/1/15TktkpTURBXy82YzkzZDU2Y2QxYmUxNDNhNTcxZTJkMTk4MTA3OGRiMC5qcGeRkwXNBLDNAqM"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.217,
-          -35.2833
-        ]
-      },
-      "properties": {
-        "title": "Canberra, Australian Capital Territory, Australia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.inverelltimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1c05feee-426f-49c4-883e-2cde3761e5db.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.02,
-          37.4906
-        ]
-      },
-      "properties": {
-        "title": "Seocho, Soul-T'ukpyolsi, South Korea",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://img.newspim.com/news/2025/01/31/250131150308057_797_tc.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.5833,
-          48.15
-        ]
-      },
-      "properties": {
-        "title": "Munich, Bayern, Germany",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://data.kontrakty.ua/cache/www/450,0/images/stories/fotos/aa1a9239a3fee405af5adae20cb32fcb_24.01.26_1.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3333,
-          48.8667
-        ]
-      },
-      "properties": {
-        "title": "Paris, France (General), France",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://mfes.b37m.ru/actualidad/public_images/2026.01/article/6975670059bf5b600c04c75d.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.2167,
-          53.5
-        ]
-      },
-      "properties": {
-        "title": "Manchester, Manchester, United Kingdom",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.goal.pl/wp-content/uploads/2026/01/Mikel-Arteta-12.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.6178,
-          46.6558
-        ]
-      },
-      "properties": {
-        "title": "Kherson, Khersons'ka Oblast', Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://gdb.rferl.org/2b0f633e-a913-4880-bb43-08de3c914337_w1200_h630.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.0,
-          49.75
-        ]
-      },
-      "properties": {
-        "title": "Czech Republic",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://d15-a.sdn.cz/d_15/c_img_p7_A/kBfrbpoeNBjPnR9RFlDGhE/aff5/ukrajina-praha.jpeg?fl=cro,0,70,3749,2109%7Cres,1200,,1%7Cjpg,80,,1"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.1481,
-          46.1956
-        ]
-      },
-      "properties": {
-        "title": "Geneva, Genè, Switzerland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.2lt.com.au/wp-content/uploads/2026/01/Gaza-Riviera-630x420.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.0,
-          6.0
-        ]
-      },
-      "properties": {
-        "title": "Somalia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/b6/6b6a898e-fd32-4daa-9088-32c03195181a/6973e14ef231c.image.jpg?crop=1247%2C655%2C0%2C504"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.0,
-          -34.0
-        ]
-      },
-      "properties": {
-        "title": "Argentina",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.clarin.com/img/2026/01/23/aa3LfSmv6_2000x1500__1.jpg"
+          "https://cdn.christianpost.com/files/original/thumbnail/26/87/268714.jpg"
         ],
         "country": "",
         "region": "",
@@ -2059,11 +686,11 @@
       "properties": {
         "title": "Lithuania",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
+          "https://1gr.cz/fotky/idnes/26/013/cl8/AOC9871715913_13414bbc98bf15f4290a3025.jpg"
         ],
         "country": "",
         "region": "",
@@ -2077,18 +704,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.0,
-          15.0
+          10.0,
+          56.0
         ]
       },
       "properties": {
-        "title": "Thailand",
+        "title": "Denmark",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://static.bangkokpost.com/media/content/20260125/c1_3182588_260125051316_700.jpg"
+          "https://www.vesuviolive.it/wp-content/uploads/sites/6/2020/05/donald-trump.jpg"
         ],
         "country": "",
         "region": "",
@@ -2102,18 +729,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.746,
-          36.17
+          12.8333,
+          42.8333
         ]
       },
       "properties": {
-        "title": "California, United States",
+        "title": "Italy",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/puckgettyimage-scaled.jpg"
+          "https://www.spazionapoli.it/wp-content/uploads/2026/01/Scontri_in_autostrada_25_01_2026_SpazioNapoli.jpg"
         ],
         "country": "",
         "region": "",
@@ -2127,18 +754,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5,
-          45.1667
+          28.0,
+          53.0
         ]
       },
       "properties": {
-        "title": "Croatia",
+        "title": "Belarus",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.sdpnoticias.com/resizer/v2/NVB7IMS25FAGFAWMXP5MNSTW6Y.jpg?smart=true&auth=4ff4fe0910062d02f0647d434ff4773d02439e39726b85bd74983f701cadeba1"
+          "https://ogunhaber.com/upload/img/2026/01/24/f70e38e9-325e-4e67-8127-4fe2f3faba33.jpeg"
         ],
         "country": "",
         "region": "",
@@ -2152,18 +779,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9647,
-          41.0186
+          -4.0,
+          40.0
         ]
       },
       "properties": {
-        "title": "Istanbul, Istanbul, Turkey",
+        "title": "Spain",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://cdn.noticiabrasil.net.br/images/sharing/article/por/47353872.jpg"
+          "https://www.infodefensa.com/images/showid/7817658"
         ],
         "country": "",
         "region": "",
@@ -2177,18 +804,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.0,
-          8.0
+          -93.9196,
+          45.7326
         ]
       },
       "properties": {
-        "title": "South Sudan",
+        "title": "Minnesota, United States",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.myjoyonline.com/wp-content/uploads/2026/01/IMG_2243.webp"
+          "https://cdn4.focus.bg/fakti/photos/fb/7f9/ubitiat-v-mineapolis-maj-e-bil-medicinski-rabotnik-v-speshno-otdelenie-1.jpg"
         ],
         "country": "",
         "region": "",
@@ -2202,18 +829,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0,
-          32.0
+          -79.5,
+          22.0
         ]
       },
       "properties": {
-        "title": "Morocco",
+        "title": "Cuba",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://atlasinfo.fr/wp-content/uploads/2026/01/Twitter-Atlas.png"
+          "https://kar-online.com/wp-content/uploads/2026/01/us-navy.webp"
         ],
         "country": "",
         "region": "",
@@ -2227,18 +854,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0,
-          50.8333
+          151.217,
+          -33.8833
         ]
       },
       "properties": {
-        "title": "Belgium",
+        "title": "Sydney, New South Wales, Australia",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.euronews.com/articles/stories/09/62/48/44/1200x675_cmsv2_e0686a39-4f0c-563c-be2a-9cc2dd86b799-9624844.jpg"
+          "https://www.batemansbaypost.com.au/images/transform/v1/crop/frm/silverstone-feed-data/941eaaa0-727f-4ec3-ae37-fd62485d6860.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
         ],
         "country": "",
         "region": "",
@@ -2252,18 +879,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5,
-          -2.0
+          127.5,
+          37.0
         ]
       },
       "properties": {
-        "title": "Ecuador",
+        "title": "South Korea",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.prismic.io/times-of-suriname/aXTwqgIvOtkhB6IB_22.00CocainelabexplosionkillsnineinColombia.jpg?auto=format,compress&rect=0,28,750,394"
+          "https://www.haber1.com/wp-content/uploads/2026/01/turk-tugayinin-korede-kumyangjang-ni-muharebesini-kazanmasinin-75inci-yili-dolayisiyla-toren-duzenlendi_720ec521e1b2.jpg"
         ],
         "country": "",
         "region": "",
@@ -2277,18 +904,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.25,
-          30.05
+          -2.2333,
+          53.45
         ]
       },
       "properties": {
-        "title": "Cairo, Al Qahirah, Egypt",
+        "title": "Greater Manchester, United Kingdom (General), United Kingdom",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.azzaman.com/wp-content/uploads/2023/10/20231012_204517.jpeg"
+          "https://static.standard.co.uk/2026/01/25/18/d2e3ca14f8876670d46519362a16d5c2Y29udGVudHNlYXJjaGFwaSwxNzY5NDUwNjI0-2.76260544.jpg?&auto=webp&quality=75"
         ],
         "country": "",
         "region": "",
@@ -2302,18 +929,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.25,
-          31.6667
+          70.0,
+          30.0
         ]
       },
       "properties": {
-        "title": "West Bank",
+        "title": "Pakistan",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/24/yk14656786/yk14656786_0_41_1558_878_0_large.jpg"
+          "https://img.etimg.com/thumb/msid-127528773,width-1200,height-630,imgsize-100806,overlay-economictimes/articleshow.jpg"
         ],
         "country": "",
         "region": "",
@@ -2327,18 +954,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.0,
-          10.0
+          -93.2638,
+          44.98
         ]
       },
       "properties": {
-        "title": "Nigeria",
+        "title": "Minneapolis, Minnesota, United States",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://bentelevision.com/wp-content/uploads/2025/12/G6FqLSfW8AAndNr.jpeg"
+          "https://media.townhall.com/cdn/hodl/2026/15/e6b88b0e-6ab0-45ea-824b-6b03e6f1c1c8.jpg"
         ],
         "country": "",
         "region": "",
@@ -2352,18 +979,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.25,
-          25.5
+          34.2369,
+          31.2878
         ]
       },
       "properties": {
-        "title": "Qatar",
+        "title": "Rafah, Shamal Sina', Egypt",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://cdn-network.chimpreports.com/wp-content/uploads/2026/01/rwanda-1.x83692.jpg"
+          "https://bloximages.newyork1.vip.townnews.com/fairfieldsuntimes.com/content/tncms/assets/v3/editorial/4/72/472de150-ea1b-5a51-9d8f-e1e7015824b4/6976c0837662b.image.jpg?crop=341%2C341%2C85%2C0"
         ],
         "country": "",
         "region": "",
@@ -2377,18 +1004,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0,
-          28.0
+          51.5148,
+          35.75
         ]
       },
       "properties": {
-        "title": "Algeria",
+        "title": "Tehran, Tehran, Iran",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.evrensel.net/images/840/upload/dosya/330737.jpg"
+          "https://grenadachronicle.com/app/uploads/2026/01/2026-01-24T113731Z_1485934817_RC2C6JAHWFSE_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-USA-1769332737-yCBDlC.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.388,
+          39.9289
+        ]
+      },
+      "properties": {
+        "title": "Beijing, Beijing, China",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://truthout.org/app/uploads/2026/01/GettyImages-2257591652.jpg"
         ],
         "country": "",
         "region": "",
@@ -2409,11 +1061,11 @@
       "properties": {
         "title": "Rome, Lazio, Italy",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://sudanile.com/wp-content/uploads/2026/01/ziad.jpg"
+          "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDEvMjUvMTAxMDAxNDk4LWMxOGVmNzE4LTRlODUtNDU2OS1hMmM2LTU5NjdmNWQ2MjQyNi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19"
         ],
         "country": "",
         "region": "",
@@ -2427,18 +1079,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3333,
-          47.3333
+          107.8333,
+          16.1667
         ]
       },
       "properties": {
-        "title": "Austria",
+        "title": "Vietnam",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://historia.org.pl/wp-content/uploads/2026/01/Zamek-w-Brzegu-na-rysunku-Friedricha-Bernharda-Wernera-z-okolo-1750-roku.jpg"
+          "https://www.bankingnews.gr/media/k2/items/cache/e43eb280a788ca55c4581637de745bfd_XL.jpg"
         ],
         "country": "",
         "region": "",
@@ -2452,18 +1104,243 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.5,
-          13.5
+          15.0,
+          62.0
         ]
       },
       "properties": {
-        "title": "Darfur, Gharb Darfur, Sudan",
+        "title": "Sweden",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.alnilin.com/wp-content/uploads/2025/04/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B4%D9%82%D9%84%D8%A7%D9%88%D9%8A.jpg"
+          "https://letemps-17455.kxcdn.com/photos/22eed6a0-6773-472b-a4aa-9c6b123e5553/medium"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0,
+          23.0
+        ]
+      },
+      "properties": {
+        "title": "Mexico",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://kar-online.com/wp-content/uploads/2026/01/us-navy.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9953,
+          51.2417
+        ]
+      },
+      "properties": {
+        "title": "Burnham, Somerset, United Kingdom",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://static.standard.co.uk/2026/01/25/18/d2e3ca14f8876670d46519362a16d5c2Y29udGVudHNlYXJjaGFwaSwxNzY5NDUwNjI0-2.76260544.jpg?&auto=webp&quality=75"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          44.0
+        ]
+      },
+      "properties": {
+        "title": "Serbia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://informer.rs/data/images/2026-01-11/1295865_dsc04089_f.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          39.0
+        ]
+      },
+      "properties": {
+        "title": "Greece",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn.actualno.eu/actualno_2013/upload/news/2026/01/22/33575c5cd5f126ec23cb1c960b664b90_2546231_1920x1080.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "Saudi Arabia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://sudanile.com/wp-content/uploads/2025/09/shaglawi.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          53.0
+        ]
+      },
+      "properties": {
+        "title": "Ireland",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.lowellsun.com/wp-content/uploads/2026/01/LOW-L-IRISHPIX3-0125-01.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5,
+          48.5
+        ]
+      },
+      "properties": {
+        "title": "Donbass, Ukraine (General), Ukraine",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://1gr.cz/fotky/idnes/26/013/cl8/AOC9871715913_13414bbc98bf15f4290a3025.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0,
+          47.0
+        ]
+      },
+      "properties": {
+        "title": "Hungary",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://img.epravda.com.ua/epravda/images/doc/d/4/71230/d418356c4990297812ab9d38b9f43684.jpeg?&q=85"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          47.0
+        ]
+      },
+      "properties": {
+        "title": "Switzerland",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg"
         ],
         "country": "",
         "region": "",
@@ -2484,11 +1361,11 @@
       "properties": {
         "title": "Jerusalem, Israel (General), Israel",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
+          "https://qudspress.com/wp-content/uploads/2026/01/thumbs_b_c_bddbcd43d63f2384f9a3bb6c883b9bda-700x394.jpg"
         ],
         "country": "",
         "region": "",
@@ -2502,18 +1379,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.1586,
-          36.2028
+          9.8333,
+          46.8167
         ]
       },
       "properties": {
-        "title": "Aleppo, ?Alab, Syria",
+        "title": "Davos, Switzerland (General), Switzerland",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://immagini.editorialedomani.it/version/c:OGNlY2U3ZGQtZTA1NS00:YjM2NDdiMDItMzFjNC00/turkey-syria-conflict.webp?f=16:9"
+          "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg"
         ],
         "country": "",
         "region": "",
@@ -2527,18 +1404,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.3734,
-          31.4251
+          -0.1167,
+          51.5
         ]
       },
       "properties": {
-        "title": "Gaza Strip",
+        "title": "London, London, City Of, United Kingdom",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://www.aljazeera.net/wp-content/uploads/2025/12/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A3%D8%A8%D9%88-%D8%B4%D8%A8%D8%A7%D8%A8-1-1764853806.jpg"
+          "https://www.mediatv.nl/images/2026/01/26-Gallery/Incident-25206/AO1RUI.jpg"
         ],
         "country": "",
         "region": "",
@@ -2552,18 +1429,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.75,
-          52.5
+          -2.2167,
+          53.5
         ]
       },
       "properties": {
-        "title": "Netherlands",
+        "title": "Manchester, Manchester, United Kingdom",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2026-01/2026-01-24T082120Z_1_LYNXMPEM0N03Y_RTROPTP_4_USA-TRUMP-IRAN-KLM.JPG"
+          "https://cdn.christianpost.com/files/original/thumbnail/26/87/268714.jpg"
         ],
         "country": "",
         "region": "",
@@ -2577,1041 +1454,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.0167,
-          35.95
+          77.2,
+          28.6
         ]
       },
       "properties": {
-        "title": "Raqqa, Ar Raqqah, Syria",
+        "title": "New Delhi, Delhi, India",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.0,
-          52.25
-        ]
-      },
-      "properties": {
-        "title": "Warsaw, (Pl67), Poland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://img.rtve.es/imagenes/jessica-chastain-casa-esperanza-donde-ver/01768917284622.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          98.0,
-          22.0
-        ]
-      },
-      "properties": {
-        "title": "Myanmar",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.hirunews.lk/Data/News_Images/202601/1769240835_5461521_hirunews.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.0,
-          40.0
-        ]
-      },
-      "properties": {
-        "title": "North Korea",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://slovenskenovice.delo.si/media/images/20260122/2760384.2e16d0ba.fill-1200x630.format-webp.webp?rev=1"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0,
-          41.0
-        ]
-      },
-      "properties": {
-        "title": "Albania",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://img.lemde.fr/2026/01/24/0/0/3588/2392/1440/960/60/0/3393411_ftp-1-zkfzpie7ypcy-5976656-01-06.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.0,
-          42.5833
-        ]
-      },
-      "properties": {
-        "title": "Kosovo",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://telegrafi.com/media-library/image.jpg?id=63224400&coordinates=0%2C16%2C0%2C17"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.0,
-          47.0
-        ]
-      },
-      "properties": {
-        "title": "Moldova",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.532,
-          25.0478
-        ]
-      },
-      "properties": {
-        "title": "Taipei, T'ai-Pei, Taiwan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.armytimes.com/resizer/v2/PLLR4FOEABA4HKU6C2ZRVGHNGA.jpg?&auth=b0554ab7385aae5fab168929481255d8a99fd4c861100e523d31c012a2a1b3e3"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0,
-          -10.0
-        ]
-      },
-      "properties": {
-        "title": "Peru",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.9167,
-          13.8333
-        ]
-      },
-      "properties": {
-        "title": "El Salvador",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.advocate-news.com/wp-content/uploads/2026/01/GettyImages-1228082512.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.751,
-          35.685
-        ]
-      },
-      "properties": {
-        "title": "Tokyo, Tokyo, Japan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.jiji.com/news2/kiji_photos/202601/20260124at60S_o.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          105.0,
-          13.0
-        ]
-      },
-      "properties": {
-        "title": "Cambodia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.bangkokpost.com/media/content/20260125/c1_3182588_260125051316_700.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.0,
-          25.0
-        ]
-      },
-      "properties": {
-        "title": "Libya",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://imagenes.elpais.com/resizer/v2/KHWKTSVBZZF55BOPZ4GIKJKT2Q.jpg?auth=b8382fe407c44241fa3a8f71b024b9c3714da04dc307ce4d41ea874467e92d4e"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          44.3939,
-          33.3386
-        ]
-      },
-      "properties": {
-        "title": "Baghdad, Baghdad, Iraq",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "http://npr-brightspot.s3.amazonaws.com/73/4a/f3ddf1234f2e9df2292f93a6506c/eric-westervelt.JPG"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6833,
-          40.4
-        ]
-      },
-      "properties": {
-        "title": "Madrid, Madrid, Spain",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/01/24/1585390.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.0,
-          57.0
-        ]
-      },
-      "properties": {
-        "title": "Latvia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.3171,
-          48.567
-        ]
-      },
-      "properties": {
-        "title": "Luhansk, Luhans'ka Oblast', Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.ilriformista.it/wp-content/uploads/2026/01/fazolo-600x315.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.0,
-          8.0
-        ]
-      },
-      "properties": {
-        "title": "Ethiopia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/01/24/697492849c787.jpeg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.8644,
-          39.9272
-        ]
-      },
-      "properties": {
-        "title": "Ankara, Ankara, Turkey",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://understandingwar.org/wp-content/uploads/2025/10/Website-Featured-Image-1-scaled.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.5039,
-          48.2907
-        ]
-      },
-      "properties": {
-        "title": "Zelenskiy, Astrakhanskaya Oblast', Russia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://focus.ua/static/storage/thumbs/1200x630/a/b9/or5edw-687fb522c63f42f6481cbd4671c63b9a.jpg?v=8796_1"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.1667,
-          37.5833
-        ]
-      },
-      "properties": {
-        "title": "Ikaria, Perifereia Voreiou Aigaiou, Greece",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://athina984.gr/wp-content/uploads/2025/07/%CE%94%CE%95%CE%9B%CE%A4%CE%99%CE%9F-2.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.982,
-          14.6042
-        ]
-      },
-      "properties": {
-        "title": "Manila, Manila, Philippines",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/F47W4NVTQVAOXNBVJTEMQQDNZE.JPG?smart=true&auth=ae687df273655146a44121414c50f615e8a3cd34b48b0d9a8b1cef0b4f368fd5"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.28,
-          25.2522
-        ]
-      },
-      "properties": {
-        "title": "Dubai, Dubayy, United Arab Emirates",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://media.federalna.ba/storage/slikice/l-9a7dbc6dbfac93b5635c447f64cdb63a-1769267852-medium.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.074,
-          33.4484
-        ]
-      },
-      "properties": {
-        "title": "Phoenix, Arizona, United States",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://x0.ifengimg.com/ucms/2026_05/179E96E1634F35428E631BBD44085119D02B8FAB_size51_w640_h360.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.217,
-          -33.8667
-        ]
-      },
-      "properties": {
-        "title": "Sydney Cove, New South Wales, Australia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.northweststar.com.au/images/transform/v1/crop/frm/silverstone-feed-data/0632768e-bff1-43d9-8d21-08a23525ff07.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -152.268,
-          61.385
-        ]
-      },
-      "properties": {
-        "title": "Alaska, United States",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.stiripesurse.ro/media/images/202510/explozie-ucraina_CCmwE.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          174.0,
-          -42.0
-        ]
-      },
-      "properties": {
-        "title": "New Zealand",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://administravimas.diena.lt/sites/default/files-sync/2026-01/img1269217.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.6475,
-          31.106
-        ]
-      },
-      "properties": {
-        "title": "Texas, United States",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/puckgettyimage-scaled.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.35,
-          13.0833
-        ]
-      },
-      "properties": {
-        "title": "Kordofan, Shamal Kurdufan, Sudan",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://s.yimg.com/os/en/fox_news_text_979/11506a0ae513ca505e1d01a75c9aa26f"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.7728,
-          24.6408
-        ]
-      },
-      "properties": {
-        "title": "Riyadh, Ar Riya?, Saudi Arabia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.alnilin.com/wp-content/uploads/2025/04/%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%B4%D9%82%D9%84%D8%A7%D9%88%D9%8A.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0,
-          41.8333
-        ]
-      },
-      "properties": {
-        "title": "Macedonia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.lalibre.be/resizer/v2/2IURFLNEIFFHTMEIOTN4T3RK2A.jpg?auth=edc92b9eac486a2b525772a92dae4d447ce7f740af8a4ad4fd91d26cf57220fa&quality=85&focal=1014%2C1665"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.2311,
-          31.3292
-        ]
-      },
-      "properties": {
-        "title": "Rafah, Gaza Strip (General), Gaza Strip",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://cdn.siasat.com/wp-content/uploads/2025/12/Untitled-design-2025-12-30T105402.902.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.2849,
-          51.5055
-        ]
-      },
-      "properties": {
-        "title": "Chernihiv, Chernihivs'ka Oblast', Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://vv.com.ua/wp-content/uploads/2025/11/vv.com_.ua_.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.5361,
-          6.2914
-        ]
-      },
-      "properties": {
-        "title": "Medellin, Antioquia, Colombia",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.2lt.com.au/wp-content/uploads/2026/01/Gaza-Riviera-630x420.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.7667,
-          32.0667
-        ]
-      },
-      "properties": {
-        "title": "Tel Aviv, Tel Aviv, Israel",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://images.jacobinmag.com/wp-content/uploads/2026/01/23145113/GettyImages-2255209414.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -66.9167,
-          10.5
-        ]
-      },
-      "properties": {
-        "title": "Caracas, Distrito Federal, Venezuela",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.theamericanconservative.com/wp-content/uploads/2026/01/GettyImages-2254463527.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.8258,
-          18.975
-        ]
-      },
-      "properties": {
-        "title": "Mumbai, Maharashtra, India",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.deshbandhu.co.in/h-upload/2026/01/25/82002-202601243649465.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.0,
-          9.0
-        ]
-      },
-      "properties": {
-        "title": "Panama",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.aljazeera.net/wp-content/uploads/2026/01/book-2-1769267513.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.0,
-          45.0
-        ]
-      },
-      "properties": {
-        "title": "Crimea, Krym, Avtonomna Respublika, Ukraine",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://static.dagospia.com/img/patch/01-2026/donald-trump-mondo-fiamme-2224726_600_q50.webp"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.8,
-          46.3667
-        ]
-      },
-      "properties": {
-        "title": "Kaposvar, Somogy, Hungary",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.vajma.info/cikkkepek/2026/01/24/magyarorszag_Orban-Viktor-Europa-mar-haboruban-0_nagy.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6333,
-          42.4333
-        ]
-      },
-      "properties": {
-        "title": "Pontevedra, Galicia, Spain",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://estaticos-cdn.prensaiberica.es/clip/3d961a92-6fa3-4216-b9e3-6b1bb56a001f_16-9-discover-aspect-ratio_default_0.jpg"
-        ],
-        "country": "",
-        "region": "",
-        "source": "GDELT GEO 2.0",
-        "location_precision": "point",
-        "confidence": 0.35
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.2489,
-          53.3331
-        ]
-      },
-      "properties": {
-        "title": "Dublin, Dublin, Ireland",
-        "status": "fruehwarnung",
-        "date": "2026-01-25",
-        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
-        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
-        "sources": [
-          "https://www.carlow-nationalist.ie/cms_media/module_img/7661/3830541_1_articledetail_2-83190292-e1769269461934.jpg"
+          "https://images.firstpost.com/uploads/2025/05/Op-SOS-1-2025-05-a7ebde7742cf1c43866d4257bf57065a.jpg?im=FitAndFill=(1200,675)"
         ],
         "country": "",
         "region": "",
@@ -3632,11 +1486,11 @@
       "properties": {
         "title": "Vilnius, Vilniaus Apskritis, Lithuania",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://administravimas.diena.lt/sites/default/files-sync/2026-01/peleckio_17.jpg"
+          "https://1gr.cz/fotky/idnes/26/013/cl8/AOC9871715913_13414bbc98bf15f4290a3025.jpg"
         ],
         "country": "",
         "region": "",
@@ -3650,18 +1504,1193 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          96.0833,
-          22.0
+          47.5,
+          15.5
         ]
       },
       "properties": {
-        "title": "Mandalay, Mandalay, Myanmar",
+        "title": "Yemen",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://f1.econotimes.com/2025/07/h5j92h1ilu.jpg"
+          "https://www.khabaragency.net/system/uploads/news/69765682d20b7.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3,
+          33.5
+        ]
+      },
+      "properties": {
+        "title": "Damascus, Dimashq, Syria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://imgcdn.ensonhaber.com/media/esh/2026/01/25/6975e232e4dc7522.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          64.0
+        ]
+      },
+      "properties": {
+        "title": "Finland",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://inews.gtimg.com/news_ls/OLiKb1kGFVTUR7MmdOqjOBHj6K09cOcdM5IW7wk1mVsuoAA_640330/0"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1586,
+          36.2028
+        ]
+      },
+      "properties": {
+        "title": "Aleppo, ?Alab, Syria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://assets.tegnaone.com/assets/AssociatedPress/images/81db05c0-9c91-4c3e-af14-83590b03f030/20260119T162003/81db05c0-9c91-4c3e-af14-83590b03f030.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0,
+          42.5833
+        ]
+      },
+      "properties": {
+        "title": "Kosovo",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://telegrafi.com/media-library/image.jpg?id=63248928&coordinates=0%2C48%2C0%2C48"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3734,
+          31.4251
+        ]
+      },
+      "properties": {
+        "title": "Gaza Strip",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://grenadachronicle.com/app/uploads/2026/01/2026-01-24T113731Z_1485934817_RC2C6JAHWFSE_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-USA-1769332737-yCBDlC.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          46.0
+        ]
+      },
+      "properties": {
+        "title": "Romania",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://ziarulfaclia.ro/wp-content/uploads/2026/01/danciud3.jpeg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9384,
+          42.1497
+        ]
+      },
+      "properties": {
+        "title": "New York, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://media.townhall.com/cdn/hodl/2026/15/e6b88b0e-6ab0-45ea-824b-6b03e6f1c1c8.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.217,
+          -35.2833
+        ]
+      },
+      "properties": {
+        "title": "Canberra, Australian Capital Territory, Australia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.pedestrian.tv/wp-content/uploads/2026/01/invasion-day-signs-and-posters.jpg?quality=50"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75,
+          52.5
+        ]
+      },
+      "properties": {
+        "title": "Netherlands",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.eurasiareview.com/wp-content/uploads/2019/02/b-46-e1684804630299.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967,
+          -37.8167
+        ]
+      },
+      "properties": {
+        "title": "Melbourne, Victoria, Australia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.macleayargus.com.au/images/transform/v1/crop/frm/silverstone-feed-data/6cd5ca4c-3c71-4a3a-b694-c828e450062a.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "title": "Libya",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://vermelho.org.br/wp-content/uploads/2026/01/tunisianflag_125409_large.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          49.75
+        ]
+      },
+      "properties": {
+        "title": "Czech Republic",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cd1.incdatagate.cz/images/1efb8a23-5784-6c82-b078-075cc12ac884/720x405.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "title": "United Arab Emirates",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.delo.si/media/images/20260125/2761942.2e16d0ba.fill-1200x630.format-webp.webp?rev=1"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          62.0
+        ]
+      },
+      "properties": {
+        "title": "Norway",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.elnuevosiglo.com.co/sites/default/files/2026-01/18df1-enero25_0.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0,
+          41.0
+        ]
+      },
+      "properties": {
+        "title": "Albania",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn.actualno.eu/actualno_2013/upload/news/2026/01/22/33575c5cd5f126ec23cb1c960b664b90_2546231_1920x1080.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167,
+          28.6667
+        ]
+      },
+      "properties": {
+        "title": "Delhi, Delhi, India",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.punjabitribuneonline.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVuamFiaXRyaWJ1bmVvbmxpbmUtY29tLXByb2Qtc29ydGQvbWVkaWE1NThjODg0MC1mOWRjLTExZjAtYTAxYi02OTgxODZiNWU1YjMuanBn"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0,
+          -10.0
+        ]
+      },
+      "properties": {
+        "title": "Brazil",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://s3.ppllstatics.com/diariosur/www/multimedia/2026/01/19/EFEMERIDES-1768827326.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "title": "Bulgaria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn.actualno.eu/actualno_2013/upload/news/2026/01/22/33575c5cd5f126ec23cb1c960b664b90_2546231_1920x1080.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "title": "Bangladesh",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://th-i.thgim.com/public/incoming/dr15uo/article70550550.ece/alternates/LANDSCAPE_1200/Sir._Mark_Tully_03.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2527,
+          49.9808
+        ]
+      },
+      "properties": {
+        "title": "Kharkiv, Kharkivs'ka Oblast', Ukraine",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://atn.ua/assets/uploads/2026/01/photo_2026-01-25_09-26-28.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0,
+          4.0
+        ]
+      },
+      "properties": {
+        "title": "Colombia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://images.glavred.info/2026_01/thumb_files/600x420/1769339437-5879.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "title": "Armenia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "http://lratvakan.com/wp-content/uploads/2014/11/full.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0,
+          10.0
+        ]
+      },
+      "properties": {
+        "title": "Nigeria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://truthout.org/app/uploads/2026/01/GettyImages-2257591652.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.746,
+          36.17
+        ]
+      },
+      "properties": {
+        "title": "California, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://s1.elaph.com/static/resizer/800/420/resources/images/ElaphWriter/2026/01/week5/303c6f06f6ef1cdf4bb0dc5520cf4d09.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.0,
+          -5.0
+        ]
+      },
+      "properties": {
+        "title": "Indonesia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/band-of-brothers.jpeg?&fit=crop"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751,
+          35.685
+        ]
+      },
+      "properties": {
+        "title": "Tokyo, Tokyo, Japan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.sponichi.co.jp/battle/news/2026/01/25/jpeg/20260125s10003000228000p_view.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2311,
+          31.3292
+        ]
+      },
+      "properties": {
+        "title": "Rafah, Gaza Strip (General), Gaza Strip",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://bloximages.chicago2.vip.townnews.com/youralaskalink.com/content/tncms/assets/v3/editorial/0/ae/0aea530a-4252-5aaf-aa63-f1cfa0cd83fc/6976c04c32334.image.jpg?crop=341%2C341%2C85%2C0"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3333,
+          50.8333
+        ]
+      },
+      "properties": {
+        "title": "Brussels, Bruxelles-Capitale, Belgium",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://weeklyblitz.net/wp-content/uploads/Orban-warns-of-war-as-NATO-and-EU-expansion-near-Russias-borders.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          37.5664
+        ]
+      },
+      "properties": {
+        "title": "Seoul, Soul-T'ukpyolsi, South Korea",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "http://peru21.pe/sites/default/efsfiles/styles/amp_1200x675_16_9/public/2026-01/whatsapp-image-2026-01-23-at-9.43.10-pm.jpeg?itok=x3Ic2RAL"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.25,
+          25.5
+        ]
+      },
+      "properties": {
+        "title": "Qatar",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://im2.kommersant.ru/SocialPics/8377478_49_3013440_1804143039"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5,
+          45.1667
+        ]
+      },
+      "properties": {
+        "title": "Croatia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.vecernji.hr/media/img/c7/99/5d7c92313a47a88d5b03.jpeg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3333,
+          48.8667
+        ]
+      },
+      "properties": {
+        "title": "Paris, France (General), France",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://informer.rs/data/images/2024-09-07/999669_img-7818_f.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.276,
+          -33.8902
+        ]
+      },
+      "properties": {
+        "title": "Bondi Beach, New South Wales, Australia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://content.api.news/v3/images/bin/ef909df4910e82fc25f2241ec78f53c1"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3667,
+          24.4667
+        ]
+      },
+      "properties": {
+        "title": "Abu Dhabi, Abu Z¸Aby, United Arab Emirates",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn4.focus.bg/fakti/photos/fb/fea/zelenski-dokumentat-za-amerikanskite-garancii-za-sigurnost-za-ukraina-e-napalno-gotov-1.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5,
+          40.5
+        ]
+      },
+      "properties": {
+        "title": "Azerbaijan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "http://lratvakan.com/wp-content/uploads/2014/11/full.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0,
+          -1.0
+        ]
+      },
+      "properties": {
+        "title": "Congo",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://en.apa.az/storage/news/2026/january/26/big/6976da669ec2c6976da669ec2d17693968386976da669ec2a6976da669ec2b.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0,
+          2.0
+        ]
+      },
+      "properties": {
+        "title": "Uganda",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://images-tools.cadena3.com/tools/r/71ab465f-7333-4889-92e7-27bbe61d6ec4.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.0,
+          -34.0
+        ]
+      },
+      "properties": {
+        "title": "Argentina",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cassette.sphdigital.com.sg/image/businesstimes/07c634ac2d1f9b5e578057b2303ed2ed6a8c8bd945e73c3f8ed910f3a75a9299?&f=webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25,
+          31.6667
+        ]
+      },
+      "properties": {
+        "title": "West Bank",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://media.pnn.ps/arabic/storage/images/news/2026/1769336765-1517100464.jfif"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          32.0
+        ]
+      },
+      "properties": {
+        "title": "Morocco",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://static.laregion.es/clip/0382bf97-12ff-456d-bab8-26411615d640_facebook-aspect-ratio_default_0.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5802,
+          50.6107
+        ]
+      },
+      "properties": {
+        "title": "Belgorod, Belgorodskaya Oblast', Russia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://gdb.rferl.org/029b367f-c132-47f6-aee5-ffe3e18cebc9_w1200_h630.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0,
+          15.0
+        ]
+      },
+      "properties": {
+        "title": "Thailand",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://img.jakpost.net/c/2025/12/30/2025_12_30_170849_1767060334._large.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5039,
+          48.2907
+        ]
+      },
+      "properties": {
+        "title": "Zelenskiy, Astrakhanskaya Oblast', Russia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://static.espreso.tv/uploads/photobank/408000_409000/408315_Gvk25n_WAAAfJJv.jpeg?id=1769361386"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.05
+        ]
+      },
+      "properties": {
+        "title": "Cairo, Al Qahirah, Egypt",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.radiofrance.fr/s3/cruiser-production/2022/06/89b36874-855b-46d7-b39c-1746aa9212f9/400x400_les-nuits-de-france-culture.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          50.8333
+        ]
+      },
+      "properties": {
+        "title": "Belgium",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.larepublica.ec/wp-content/uploads/2026/01/guerra-del-cenepa-bn.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4,
+          52.5167
+        ]
+      },
+      "properties": {
+        "title": "Berlin, Berlin, Germany",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://s1.elaph.com/resources/images/newspapers_authors/db9d692f204744f9dd4e43b5295cd959.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.0,
+          6.0
+        ]
+      },
+      "properties": {
+        "title": "Somalia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/a/db/adb9565b-712a-5f00-8d95-ec61a8693467/69758acf8be63.image.jpg?crop=341%2C341%2C85%2C0"
         ],
         "country": "",
         "region": "",
@@ -3682,11 +2711,286 @@
       "properties": {
         "title": "Philippines",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://media.alittihad.ae/assets/uploads/itihad/default.jpg"
+          "https://www.dailyexpress.com.my/uploads/news2/2026/01/Watch_1.png"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8614,
+          39.9794
+        ]
+      },
+      "properties": {
+        "title": "Ucles, Castilla-La Manacha, Spain",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.elplural.com/uploads/s1/24/16/77/9/david-ucles-ep_12_1200x500.jpeg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          -2.0
+        ]
+      },
+      "properties": {
+        "title": "Ecuador",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.larepublica.ec/wp-content/uploads/2026/01/guerra-del-cenepa-bn.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2,
+          45.4667
+        ]
+      },
+      "properties": {
+        "title": "Milan, Lombardia, Italy",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://apicms.thestar.com.my/uploads/images/2026/01/25/3737465.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3333,
+          47.3333
+        ]
+      },
+      "properties": {
+        "title": "Austria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.regionews.at/data/news/2026/01/25/673945/pic_600/OBS_20260125_OBS0001.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0,
+          28.0
+        ]
+      },
+      "properties": {
+        "title": "Algeria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.libe.ma/photo/art/grande/93884746-65536221.jpg?v=1769350749"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7333,
+          37.9833
+        ]
+      },
+      "properties": {
+        "title": "Athens, AttikíR, Greece",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://pelop.gr/wp-content/uploads/2026/01/mark-karnei.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.532,
+          25.0478
+        ]
+      },
+      "properties": {
+        "title": "Taipei, T'ai-Pei, Taiwan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://img.ltn.com.tw/Upload/ent/page/800/2026/01/26/phpq4V1aG.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1833,
+          41.3833
+        ]
+      },
+      "properties": {
+        "title": "Barcelona, Comunidad Autonoma De Cataluna, Spain",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.modenatoday.it/~media/horizontal-hi/30321134934978/gen26-3.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.1874,
+          30.608
+        ]
+      },
+      "properties": {
+        "title": "Basij, Fars, Iran",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.newsx.com/wp-content/uploads/2026/01/iran-vs-us.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1667,
+          22.25
+        ]
+      },
+      "properties": {
+        "title": "Hong Kong",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://media.cnnchile.com/sites/2/2026/01/b60be9db6a8996bd0daba11f1ab3d54c972a798b.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          59.0
+        ]
+      },
+      "properties": {
+        "title": "Estonia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://static.ukrinform.com/photos/2026_01/thumb_files/630_360_1768233668-954.jpg"
         ],
         "country": "",
         "region": "",
@@ -3707,11 +3011,11 @@
       "properties": {
         "title": "Portugal",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://images.newsru.co.il/l/232/74/2327426.jpg?cb=1769315264"
+          "https://www.ilrestodelcarlino.it/image-service/view/acePublic/alias/contentid/N2IxMDAzZTItNTMwMi00/0/scontri-fra-tifosi-due-feriti-e-molti-daspo-in-arrivo.jpg?f=16:9"
         ],
         "country": "",
         "region": "",
@@ -3725,18 +3029,718 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.6501,
-          41.85
+          36.0,
+          31.0
         ]
       },
       "properties": {
-        "title": "Chicago, Illinois, United States",
+        "title": "Jordan",
         "status": "fruehwarnung",
-        "date": "2026-01-25",
+        "date": "2026-01-26",
         "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
         "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
         "sources": [
-          "https://tvn24.pl/_e/i/najnowsze/cdn-zdjecie-usyq0e-brytyjscy-zolnierze-w-afganistanie-ph4755256/alternates/WEBP_LANDSCAPE_840"
+          "https://media.pnn.ps/arabic/storage/images/news/2026/1769336765-1517100464.jfif"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9647,
+          41.0186
+        ]
+      },
+      "properties": {
+        "title": "Istanbul, Istanbul, Turkey",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://informer.rs/data/images/2026-01-25/1303608_slika-2_f.png"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6475,
+          31.106
+        ]
+      },
+      "properties": {
+        "title": "Texas, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://s.yimg.com/ny/api/res/1.2/fb5ojEJEX1QLcBOOFy0zHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI7Y2Y9d2VicA--/https://media.zenfs.com/en/slash_gear_112/0290245b9c21ba0c298e3eed27aa27fd"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "title": "North Korea",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://wimg.heraldcorp.com/news/cms/2026/01/26/news-p.v1.20260126.9edbc978217a4d7f9d0bdd0058a3c72f_T1.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1833,
+          40.3833
+        ]
+      },
+      "properties": {
+        "title": "Lecce, Puglia, Italy",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.ilnapolista.it/wp-content/uploads/2023/11/polizia-ultras-tifosi-psg-milan-9LH.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0,
+          41.8333
+        ]
+      },
+      "properties": {
+        "title": "Macedonia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.bgnes.com/static/images/news/2026/01/25/16579/15280.webp"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6487,
+          32.9866
+        ]
+      },
+      "properties": {
+        "title": "Georgia, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://prod-img.nieuwsblad.be/public/nieuws/6ia0vd-palestinian-president-mahmoud-abbas-visits-moscow/alternates/SIXTEEN_NINE_1200/Palestinian%20President%20Mahmoud%20Abbas%20visits%20Moscow"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.833,
+          -31.9333
+        ]
+      },
+      "properties": {
+        "title": "Perth, Western Australia, Australia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.theleader.com.au/images/transform/v1/crop/frm/silverstone-feed-data/02cd8ed8-1d80-42e6-b1c0-2cfe465dd9e7.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0,
+          11.0
+        ]
+      },
+      "properties": {
+        "title": "Tamil Nadu, Tamil Nadu, India",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.aajsamaaj.com/wp-content/uploads/2026/01/MK-Stalin.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.717,
+          27.8333
+        ]
+      },
+      "properties": {
+        "title": "Florida, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://1884403144.rsc.cdn77.org/foto/zelenskyj-trump-davos-ukrajina-usa-svetove-ekonomicke-forum/MTIwMHg2MzAvc21hcnQvZmlsdGVyczpmb2NhbCg0NDN4MTEzOjEzNTl4NDI0KS9pbWc/9727631.jpg?v=0&st=M6AqljQkP7PAwYRLAT8VNyDlFZu7VSY6_hzhfs0H4EY&ts=1600812000&e=0"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4681,
+          44.8186
+        ]
+      },
+      "properties": {
+        "title": "Belgrade, Serbia (General),",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://ocdn.eu/pulscms-transforms/1/a78ktkpTURBXy80NmJmNzg0N2FiNmViZmQ3YjFiYWY4NWI1ZmMwNTAxOS5qcGeRkwXNBLDNAqM"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0,
+          22.0
+        ]
+      },
+      "properties": {
+        "title": "Myanmar",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/custom/image/d9d6b58e-5e20-11ef-ad04-e73abc89d872.png"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.0,
+          35.0
+        ]
+      },
+      "properties": {
+        "title": "Cyprus",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cyprus-mail.com/wp-content/uploads/2026/01/o-khoros-ton-eraston-original-6193.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "title": "South Sudan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.aljazeera.net/wp-content/uploads/2024/05/doc-343t44e-1715159794.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          -30.0
+        ]
+      },
+      "properties": {
+        "title": "Chile",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.pennlive.com/resizer/v2/QP55I2B4MBCYRKUFSCOMKLQ4KA.jpg?auth=14f59b50302710e240dac7ebc44c9e89ce6656352188df3042ef8d9c6487719e&smart=true&quality=90"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2642,
+          59.8944
+        ]
+      },
+      "properties": {
+        "title": "Saint Petersburg, Sankt-Peterburg, Russia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.modenatoday.it/~media/horizontal-hi/30321134934978/gen26-3.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.268,
+          61.385
+        ]
+      },
+      "properties": {
+        "title": "Alaska, United States",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.economx.hu/fototar/fototar/202512/orig/image1766748164.jpg/1200/?v=2024012201"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7728,
+          24.6408
+        ]
+      },
+      "properties": {
+        "title": "Riyadh, Ar Riya?, Saudi Arabia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://sudanile.com/wp-content/uploads/2025/09/shaglawi.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0,
+          47.0
+        ]
+      },
+      "properties": {
+        "title": "Moldova",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://img.epravda.com.ua/epravda/images/doc/d/4/71230/d418356c4990297812ab9d38b9f43684.jpeg?&q=85"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.267,
+          37.4833
+        ]
+      },
+      "properties": {
+        "title": "Atami, Fukushima, Japan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://hokkoku.ismcdn.jp/mwimgs/c/1/1200wm/img_c10ef256902c606107988304c8761fb8121739.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1667,
+          46.25
+        ]
+      },
+      "properties": {
+        "title": "Slovenia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.rts.rs/upload/media/2026/0/21/13/9/787/4897731/thumbs/11374849/1.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.0167,
+          35.95
+        ]
+      },
+      "properties": {
+        "title": "Raqqa, Ar Raqqah, Syria",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.samaa.tv/images/syria-kurd-ceasefire.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2772,
+          6.8308
+        ]
+      },
+      "properties": {
+        "title": "Jonglei, Wilayat Junqoley, South Sudan",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.radiotamazuj.org/wp-content/uploads/2026/01/soldier-in-SS.png"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "title": "Ethiopia",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://radiodalsan.com/cms/wp-content/uploads/2026/01/FB_IMG_1767329062712.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0,
+          -30.0
+        ]
+      },
+      "properties": {
+        "title": "South Africa",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn.dailymaverick.co.za/i/rqO_UKCM-sH99iH7yYkrqHBg_Tk=/800x0/smart/filters:strip_exif()/file/dailymaverick/wp-content/uploads/2023/10/9-MAIN-PHOTO.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9167,
+          10.5
+        ]
+      },
+      "properties": {
+        "title": "Caracas, Distrito Federal, Venezuela",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/25145945/fb09ba1f172ecdd3b6a2a064d96915a675637c34.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1481,
+          46.1956
+        ]
+      },
+      "properties": {
+        "title": "Geneva, Genè, Switzerland",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://cdn.wmnf.org/wp-content/uploads/2026/01/Olive-trees-in-Lebanon-by-Eliane29-via-iStock-for-WMNF-News-scaled.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          -10.0
+        ]
+      },
+      "properties": {
+        "title": "Peru",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://www.larepublica.ec/wp-content/uploads/2026/01/guerra-del-cenepa-bn.jpg"
+        ],
+        "country": "",
+        "region": "",
+        "source": "GDELT GEO 2.0",
+        "location_precision": "point",
+        "confidence": 0.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8258,
+          18.975
+        ]
+      },
+      "properties": {
+        "title": "Mumbai, Maharashtra, India",
+        "status": "fruehwarnung",
+        "date": "2026-01-26",
+        "summary": "Automatisch extrahierte News-Ortsnennung (GDELT).",
+        "why_it_matters": "Fallback, damit die Karte nicht leer ist. Angaben koennen falsch/ungenau sein.",
+        "sources": [
+          "https://images.moneycontrol.com/static-mcnews/2026/01/20260121104335_republic-day-2026-rehearsal.jpg"
         ],
         "country": "",
         "region": "",
